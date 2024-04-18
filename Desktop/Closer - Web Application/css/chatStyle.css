@@ -17,7 +17,7 @@ body {
   justify-content: center;
   align-items: center;
   background: linear-gradient(0deg, rgb(12, 35, 64), rgb(21, 51, 91)) no-repeat;
-  background-image: url("loginBackground.png");
+  background-image: url("backgroundChat.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
